@@ -37,19 +37,19 @@ const Navbar = () => {
                 <a href="#" className="block py-2 px-1 font-bold " aria-current="page">Capabilities</a>
               </li>
               <li>
-                <a href="#" className="block py-2 px-1 font-bold ">Our Portfolio</a>
+                <a href="#" className="block text-white py-2 px-1 font-bold ">Our Portfolio</a>
               </li>
               <li>
-                <a href="#" className="block py-2 px-1 font-bold ">Pricing Plan</a>
+                <a href="#" className="block text-white py-2 px-1 font-bold ">Pricing Plan</a>
               </li>
               <li>
-                <a href="#" className="block py-2 px-1 font-bold ">Partner With Us</a>
+                <a href="#" className="block text-white py-2 px-1 font-bold ">Partner With Us</a>
               </li>
               <li>
-                <a href="#" className="block py-2 px-1 font-bold ">Careers</a>
+                <a href="#" className="block text-white py-2 px-1 font-bold ">Careers</a>
               </li>
               <li>
-                <a href="#" className="block py-2 px-1 font-bold ">Agency</a>
+                <a href="#" className="block text-white py-2 px-1 font-bold ">Agency</a>
               </li>
             </ul>
           </div>
