@@ -11,7 +11,7 @@ const HeroSection = () => {
         <h1 className="text-4xl md:text-5xl font-bold font-poppins leading-tight">
           Elevate Your Presence with Us, We Craft Stunning Websites that <span className="text-blue-400">Captivate and Convert!</span>
         </h1>
-        <button className="mt-6 bg-blue-300 bg-opacity-75 py-3 px-6 rounded-md text-lg font-semibold hover:bg-blue-500 transition">
+        <button className="mt-6 bg-blue-400 bg-opacity-75 py-3 px-6 rounded-md text-lg font-semibold hover:bg-blue-500 transition">
           Our Work
         </button>
       </div>
