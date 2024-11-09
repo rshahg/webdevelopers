@@ -3,7 +3,7 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="bg-black text-white py-20" >
+    <section className="mt-20 bg-black text-white py-20" >
       <div className="text-center px-4 max-w-3xl mx-auto">
         <p className="text-lg font-karla uppercase mb-4 tracking-wider">
           Website Design & Development | UI/UX Design | Support & Maintenance
